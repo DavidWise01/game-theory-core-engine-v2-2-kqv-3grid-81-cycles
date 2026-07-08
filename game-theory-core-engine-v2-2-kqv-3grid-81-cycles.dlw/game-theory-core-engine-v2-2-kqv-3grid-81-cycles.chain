@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 199
+slug  : game-theory-core-engine-v2-2-kqv-3grid-81-cycles
+seal  : d7f18674928aa16eb454aff72ffd034d7967b116294f2483f9ae571b76c208f5
+prev  : b87984dc9b850500395205dc1904b2580693ce3c6b680e487189d54214637460
+link  : b0bd633296944adf3fe889db523dbccf42eec13461c98c8ede7d669fa28ddd9e
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
